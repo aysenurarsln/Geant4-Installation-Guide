@@ -75,7 +75,11 @@ cmake version 4.3.1
 
 ## Screenshot
 
-> *(The installation screenshots will be added here.)*---
+![CMake Download](images/figure01.png)
+
+![CMake Installation](images/figure02.png)
+
+![CMake Verification](images/figure03.png)
 
 # 2. Install Visual Studio 2022
 
@@ -121,7 +125,7 @@ Microsoft (R) C/C++ Optimizing Compiler
 
 ## Screenshot
 
-> *(The Visual Studio installation screenshots will be added here.)*---
+![Visual Studio Installation](images/figure04.png)
 
 # 3. Download Geant4 Source Code
 
@@ -163,7 +167,15 @@ The **build** and **install** folders can be created manually before configuring
 
 ## Screenshot
 
-> *(The Geant4 download and folder structure screenshots will be added here.)*---
+![Download Geant4](images/figure05.png)
+
+![Extract Source Code](images/figure06.png)
+
+![Project Directory Structure](images/figure07.png)
+
+![Directory Verification](images/figure08.png)
+
+![Source Files](images/figure09.png)
 
 # 4. Configure Geant4 with CMake
 
@@ -200,7 +212,7 @@ If the configuration completes successfully, CMake will generate the Visual Stud
 
 ## Screenshot
 
-> *(The CMake configuration screenshots will be added here.)*---
+![CMake Configuration](images/figure10.png)
 
 # 5. Build and Install Geant4
 
@@ -238,7 +250,9 @@ C:\Geant4\geant4-install
 
 ## Screenshot
 
-> *(The Visual Studio build screenshots will be added here.)*---
+![Build Geant4](images/figure11.png)
+
+![Install Geant4](images/figure12.png)
 
 # 6. Configure Environment Variables
 
@@ -270,7 +284,7 @@ or launch one of the Geant4 examples.
 
 ## Screenshot
 
-> *(Environment configuration screenshots will be added here.)*---
+![Environment Variables](images/figure13.png)
 
 # 7. Run the Basic Example (B1)
 
@@ -314,7 +328,9 @@ A successful execution confirms that Geant4 has been installed and configured co
 
 ## Screenshot
 
-> *(The Example B1 execution screenshots will be added here.)*---
+![Configure Example B1](images/figure14.png)
+
+![Run Example B1](images/figure15.png)
 
 # Troubleshooting
 
