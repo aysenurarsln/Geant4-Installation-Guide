@@ -75,17 +75,18 @@ cmake version 4.3.1
 
 ## Screenshot
 
+*Figure 1. Download page of the CMake installer.*
+
 ![CMake Download](images/figure01.png)
 
-**Figure 1**
+*Figure 2. CMake installation options.*
 
 ![CMake Installation](images/figure02.png)
 
-**Figure 2**
+*Figure 3. Verification of the installed CMake version.*
 
 ![CMake Verification](images/figure03.png)
 
-**Figure 3**
 
 # 2. Install Visual Studio 2022
 
@@ -131,9 +132,10 @@ Microsoft (R) C/C++ Optimizing Compiler
 
 ## Screenshot
 
+*Figure 4. Visual Studio 2022 installation with the required C++ workload.*
+
 ![Visual Studio Installation](images/figure04.png)
 
-**Figure 4**
 
 # 3. Download Geant4 Source Code
 
@@ -175,25 +177,26 @@ The **build** and **install** folders can be created manually before configuring
 
 ## Screenshot
 
+*Figure 5. Geant4 official download page.*
+
 ![Download Geant4](images/figure05.png)
 
-**Figure 5**
+*Figure 6. Downloaded Geant4 source package.*
 
 ![Extract Source Code](images/figure06.png)
 
-**Figure 6**
+*Figure 7. Extracted Geant4 source directory.*
 
 ![Project Directory Structure](images/figure07.png)
 
-**Figure 7**
+*Figure 8. Geant4 project folder structure.*
 
 ![Directory Verification](images/figure08.png)
 
-**Figure 8**
+*Figure 9. Verification of the project directories.*
 
 ![Source Files](images/figure09.png)
 
-**Figure 9**
 
 # 4. Configure Geant4 with CMake
 
@@ -230,9 +233,10 @@ If the configuration completes successfully, CMake will generate the Visual Stud
 
 ## Screenshot
 
+*Figure 10. CMake configuration for Geant4.*
+
 ![CMake Configuration](images/figure10.png)
 
-**Figure 10**
 
 # 5. Build and Install Geant4
 
@@ -270,13 +274,14 @@ C:\Geant4\geant4-install
 
 ## Screenshot
 
+*Figure 11. Building the Geant4 project in Visual Studio.*
+
 ![Build Geant4](images/figure11.png)
 
-**Figure 11**
+*Figure 12. Successful installation of Geant4.*
 
 ![Install Geant4](images/figure12.png)
 
-**Figure 12**
 
 # 6. Configure Environment Variables
 
@@ -308,9 +313,9 @@ or launch one of the Geant4 examples.
 
 ## Screenshot
 
-![Environment Variables](images/figure13.png)
+*Figure 13. Geant4 environment configuration.*
 
-**Figure 13**
+![Environment Variables](images/figure13.png)
 
 # 7. Run the Basic Example (B1)
 
@@ -354,13 +359,13 @@ A successful execution confirms that Geant4 has been installed and configured co
 
 ## Screenshot
 
+*Figure 14. Configuring the Basic Example B1 project.*
+
 ![Configure Example B1](images/figure14.png)
 
-**Figure 14**
+*Figure 15. Successful execution of the Geant4 Basic Example B1.*
 
 ![Run Example B1](images/figure15.png)
-
-**Figure 15**
 
 # Troubleshooting
 
