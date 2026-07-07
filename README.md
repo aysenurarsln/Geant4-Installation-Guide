@@ -1,2 +1,20 @@
-# Geant4-Installation-Guide
-Installation guides, documentation, and setup notes for Geant4.
+# Geant4 Installation Guide
+
+This repository contains installation guides and documentation for Geant4.
+
+## Available Guides
+
+| Platform | Status |
+|----------|--------|
+| Windows | ✅ Available |
+
+## Repository Structure
+
+```text
+Geant4-Installation-Guide/
+└── Windows/
+```
+
+## License
+
+Currently under development.
