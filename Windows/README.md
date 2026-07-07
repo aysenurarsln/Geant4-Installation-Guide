@@ -303,13 +303,7 @@ Alternatively, use the Geant4 Command Prompt if it has been created during insta
 
 ## Verification
 
-Verify that Geant4 is configured correctly by running:
-
-```powershell
-geant4-config --version
-```
-
-or launch one of the Geant4 examples.
+Verify that the Geant4 installation was completed successfully by running the Basic Example B1.
 
 ## Screenshot
 
@@ -380,7 +374,7 @@ A successful execution confirms that Geant4 has been installed and configured co
 
 ### Missing Physics Datasets
 
-Reconfigure Geant4 with:
+Reconfigure Geant4 with the following CMake option:
 
 ```powershell
 -DGEANT4_INSTALL_DATA=ON
@@ -414,13 +408,13 @@ Example:
 # References
 
 - Geant4 Official Website  
-  https://geant4.web.cern.ch/
+  <https://geant4.web.cern.ch/>
 
 - CMake Official Website  
-  https://cmake.org/
+  <https://cmake.org/>
 
 - Microsoft Visual Studio  
-  https://visualstudio.microsoft.com/
+  <https://visualstudio.microsoft.com/>
 
 
 *Last updated: July 2026*
