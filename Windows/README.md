@@ -51,7 +51,7 @@ CMake is required to configure and generate the Visual Studio project files used
 
 Download the latest Windows installer from the official CMake website.
 
-https://cmake.org/download/
+<https://cmake.org/download/>
 
 ## Installation
 
@@ -98,7 +98,7 @@ Visual Studio provides the Microsoft C++ compiler (MSVC) and build tools require
 
 Download Visual Studio 2022 Community Edition from the official Microsoft website.
 
-https://visualstudio.microsoft.com/
+<https://visualstudio.microsoft.com/>
 
 ## Required Workloads
 
@@ -147,7 +147,7 @@ Download the official Geant4 source package and the required datasets.
 
 Visit the official Geant4 website:
 
-https://geant4.web.cern.ch/
+<https://geant4.web.cern.ch/>
 
 Navigate to:
 
