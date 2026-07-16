@@ -26,7 +26,7 @@ Geant4-Installation-Guide/
 │   └── Geant4-Installation-Guide-Windows.docx
 │
 └── LXPLUS/
-    ├── README.md
+    └── README.md
 
 
 ---
