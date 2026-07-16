@@ -27,11 +27,7 @@ Geant4-Installation-Guide/
 │
 └── LXPLUS/
     ├── README.md
-    └── analysis/
-        ├── README.md
-        ├── plots/
-        └── rootfiles/
-```
+
 
 ---
 
@@ -55,31 +51,10 @@ Contains:
 - Setting up the Geant4 environment
 - Compiling applications
 - Running simulations
-- ROOT output files
-- Analysis plots
 
 ---
 
-## Analysis
 
-The analysis section contains simulation results for:
-
-- 100 MeV
-- 500 MeV
-- 1000 MeV
-- 2000 MeV
-- 10000 MeV
-
-including:
-
-- ROOT output files
-- Analysis plots
-- Shower profile comparisons
-- Heatmaps
-- Particle separation
-- Density contours
-
----
 
 ## License
 
